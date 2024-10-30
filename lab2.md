@@ -21,9 +21,6 @@ If score <=50 Then
 ENDIF
 
 END
-
-
-# FLowchart
 See 50abovechart
 
 
