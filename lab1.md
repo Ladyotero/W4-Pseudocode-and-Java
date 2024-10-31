@@ -4,8 +4,7 @@
 -Create a flowchart to calculate the perimeter of a rectangle given its length and width. 
 rectangle
 Solve for perimeter [P = 2*(L+W)] when L is length and W is width
-
-
+```
 Start
 
 //initial process
@@ -22,29 +21,33 @@ Output Perimeter (P)
 # flowchart
 
 End
+```
 
 
 # Problem solving question 2
 -Instructions
 -Create a flowchart to calculate the area of a rectangle given its length and width.
-
+```
 Start
 
 //Initial process
 Measure the Lenght (l) of the rectangule.
+
 Measure the Width (W) of the rectangule.
+
 Multiply the lenght and width values together.
 
 Please see the flowchart
 # Image
 
 End
+```
 
 
 # Problem solving question 3
 -Instructions
 -Create a flowchart to find the largest of 2 numbers provided by the user.
-
+```
 Start
 
 //Initial process
@@ -61,3 +64,4 @@ while True:
  --number2= float(input( Enter the second number: "))
 
   End
+  ```
